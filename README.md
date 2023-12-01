@@ -1,3 +1,18 @@
+# Recommender Systems with Generative Models
+
+
+The table serves as an overview and extension of the works discussed in the following survey. Please consider citing it if you used the survey.
+
+```
+@article{deldjoo2020recommender,
+  title={Recommender Systems with Generative Models},
+  author={Deldjoo, Yashar and He, Zhankui and Macuely, Julian and Korikov, Anton and Sanner, Scott and Ramisa, Arnau and Vidal, Rene and Sathiamoorthy, Mahesh and Kasizadeh, Atoosa},
+  journal={Foundations and Trends{\textregistered} in Information Retrieval},
+  year={2024},
+  publisher={Now Publishers, Inc.}
+}
+```
+
 | title                                                                                                                                                                 | authors                                                                                                                                                                                             |   year | venue                                           | keyword                            | doi                                                                                                      |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------:|:------------------------------------------------|:-----------------------------------|:---------------------------------------------------------------------------------------------------------|
 | Prompt Distillation for Efficient LLM-based Recommendation.                                                                                                           | Lei Li 0042, Yongfeng Zhang, Li Chen 0009                                                                                                                                                           |   2023 | CIKM                                            | LLM recommend                      | [Link](https://doi.org/10.1145/3583780.3615017)                                                          |
