@@ -7,7 +7,7 @@ The table serves as an overview and extension of the works discussed in the foll
 @article{deldjoo2020recommender,
   title={Recommender Systems with Generative Models},
   author={Deldjoo, Yashar and He, Zhankui and Macuely, Julian and Korikov, Anton and Sanner, Scott and Ramisa, Arnau and Vidal, Rene and Sathiamoorthy, Mahesh and Kasizadeh, Atoosa},
-  journal={Foundations and Trends{\textregistered} in Information Retrieval},
+  journal={Foundations and Trends in Information Retrieval},
   year={2024},
   publisher={Now Publishers, Inc.}
 }
