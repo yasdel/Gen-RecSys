@@ -4,7 +4,7 @@
 The table serves as an overview and extension of the works discussed in the following survey. Please consider citing it if you used the survey.
 
 ```
-@article{Deldjoorecommender2024GenAI,
+@article{DeldjooRecGENAI2024,
   title={Recommender Systems with Generative Models},
   author={Deldjoo, Yashar and He, Zhankui and Macuely, Julian and Korikov, Anton and Sanner, Scott and Ramisa, Arnau and Vidal, Rene and Sathiamoorthy, Mahesh and Kasizadeh, Atoosa},
   journal={Foundations and Trends in Information Retrieval},
