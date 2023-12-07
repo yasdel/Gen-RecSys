@@ -13,7 +13,7 @@ The table serves as an overview and extension of the works discussed in the foll
 }
 ```
 <div align="center">
-    <img src="my_data.png"" alt="My Image" width="300"/>
+    <img src="my_data.png"" alt="My Image" width="800"/>
 </div>
 
 | title                                                                                                                                                                 | authors                                                                                                                                                                                             |   year | venue                                           | keyword                            | doi                                                                                                      |
