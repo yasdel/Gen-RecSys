@@ -1,6 +1,11 @@
 # Recommender Systems with Generative Models
 
 
+<div align="center">
+    <img src="my_data.png"" alt="My Image" width="600"/>
+</div>
+
+
 The table serves as an overview and extension of the works discussed in the following survey. Please consider citing it if you used the survey.
 
 ```
@@ -12,9 +17,6 @@ The table serves as an overview and extension of the works discussed in the foll
   publisher={Now Publishers, Inc.}
 }
 ```
-<div align="center">
-    <img src="my_data.png"" alt="My Image" width="800"/>
-</div>
 
 | title                                                                                                                                                                 | authors                                                                                                                                                                                             |   year | venue                                           | keyword                            | doi                                                                                                      |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------:|:------------------------------------------------|:-----------------------------------|:---------------------------------------------------------------------------------------------------------|
