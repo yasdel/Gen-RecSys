@@ -9,12 +9,11 @@
 The table serves as an overview and extension of the works discussed in the following survey. Please consider citing it if you used the survey.
 
 ```
-@article{DeldjooRecGenAI2024,
-  title={Recommender Systems with Generative Models},
-  author={Deldjoo, Yashar and He, Zhankui and Macuely, Julian and Korikov, Anton and Sanner, Scott and Ramisa, Arnau and Vidal, Rene and Sathiamoorthy, Mahesh and Kasizadeh, Atoosa},
-  journal={Foundations and Trends in Information Retrieval},
-  year={2024},
-  publisher={Now Publishers, Inc.}
+@article{DeldjooGenRecSys2024,
+  title={A Review of Modern Recommender Systems Using Generative Models (Gen-RecSys)},
+  author={Deldjoo, Yashar and He, Zhankui and Macuely, Julian and Korikov, Anton and Sanner, Scott and Ramisa, Arnau and Vidal, Rene and Sathiamoorthy, Mahesh and Kasizadeh, Atoosa and Milano, Silvia},
+  journal={arXiv},
+  year={2024}
 }
 ```
 
