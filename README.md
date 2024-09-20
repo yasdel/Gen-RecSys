@@ -6,13 +6,22 @@
 </div>
 
 
-The table serves as an overview and extension of the works discussed in the following survey. Please consider citing it if you used the survey.
+The table serves as an overview and extension of the works discussed in the following book and survey.
 
 ```
-@article{DeldjooGenRecSys2024,
-  title={A Review of Modern Recommender Systems Using Generative Models (Gen-RecSys)},
-  author={Deldjoo, Yashar and He, Zhankui and Macuely, Julian and Korikov, Anton and Sanner, Scott and Ramisa, Arnau and Vidal, Rene and Sathiamoorthy, Mahesh and Kasizadeh, Atoosa and Milano, Silvia},
-  journal={arXiv},
+
+@misc{deldjoo2024recommendation,
+  title={Recommendation with Generative Models},
+  author={Deldjoo, Yashar and He, Zhankui and McAuley, Julian and Korikov, Anton and Sanner, Scott and Ramisa, Arnau and Vidal, Ren{\'e} and Sathiamoorthy, Maheswaran and Kasirzadeh, Atoosa and Milano, Silvia and others},
+  journal={Foundations and Trends{\textregistered} in Information Retrieval},
+  year={2024}
+}
+
+@inproceedings{deldjoo2024review,
+  title={A review of modern recommender systems using generative models (gen-recsys)},
+  author={Deldjoo, Yashar and He, Zhankui and McAuley, Julian and Korikov, Anton and Sanner, Scott and Ramisa, Arnau and Vidal, Ren{\'e} and Sathiamoorthy, Maheswaran and Kasirzadeh, Atoosa and Milano, Silvia},
+  booktitle={Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  pages={6448--6458},
   year={2024}
 }
 ```
